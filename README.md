@@ -8,11 +8,11 @@ As "flask" is demonstrated you will no doubt see exampples of it ran from the CL
 
 Just to explain the repositries adn their puprose.  I wanted to keep the examples as seperate repositores - the better to summon up "just enough".
 
-# flask-example0 - basic "text" book example
-# flask-example1 - basic example using flask_login and sqlite.
-# flask-example2 - basic example that uses "SSL"
-# flask-example3 - basic example that uses SSL; flask_login; and sqlite
-# flask-example4 - An FLASK example app that uses SSL; flask_login; sqlite and is a little prettier
+- flask-example0 - basic "text" book example
+- flask-example1 - basic example using flask_login and sqlite.
+- flask-example2 - basic example that uses "SSL"
+- flask-example3 - basic example that uses SSL; flask_login; and sqlite
+- flask-example4 - An FLASK example app that uses SSL; flask_login; sqlite and is a little prettier
 
 ## INSTALLATION
 
