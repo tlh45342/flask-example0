@@ -4,7 +4,7 @@ There is nothing exatoic about this "example" code.
 
 As "flask" is demonstrated you will no doubt see exampples of it ran from the CLI.  This is an example for running it as an app.
 
-## Flask example repoistories
+## Flask example repositories
 
 Just to explain the repositries and their puprose.  I wanted to keep the examples as seperate repositores - the better to summon up "just enough".
 
