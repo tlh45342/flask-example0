@@ -14,6 +14,9 @@ This maintains the examples as seperate repositores - the better to summon up "j
 - flask-example3 - basic example that uses SSL; flask_login; and sqlite
 - flask-example4 - An FLASK example app that uses SSL; flask_login; sqlite and is a little prettier
 
+## ASUMES
+- you have installed python3, python-is-python3
+
 ## INSTALLATION
 
 ```bash
